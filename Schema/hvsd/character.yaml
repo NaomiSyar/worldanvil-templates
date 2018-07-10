@@ -15,7 +15,7 @@ fields:
     required: true
   age:
     input: string
-	  label: "age"
+    label: "age"
     descripton: Just the age of your characer
     placeholder: "20"
   gender:
